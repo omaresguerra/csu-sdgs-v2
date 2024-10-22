@@ -97,9 +97,7 @@
                 <img src="../assets/img/sdg1/SDG-1-2-1024x3011111111.jpg" alt="Goal 1" class="sdg-banner">
                 <br><br>
                 <p>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.                    <br><br>
-                    Cagayan State University recognizes the importance of tackling poverty and has taken several initiatives in order to contribute to this goal, such as financial aid for the less-privileged students and support to communities through engagement and outreach program. Scholarships, grants, and financial aid programs are offered to ensure that no deserving student is deprived of education due to financial constraints. These initiatives aim to empower individuals, uplift communities, and promote sustainable development.
-                    <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mi est, sagittis in efficitur nec, maximus sed mauris. Duis commodo arcu id sapien imperdiet mollis. Suspendisse scelerisque quis lorem vel eleifend. Proin bibendum at nulla nec suscipit. Integer dictum risus tempus ligula imperdiet aliquam. Proin id elit libero. In enim enim, egestas et mauris ac, suscipit consectetur libero. Phasellus condimentum dictum dolor, lobortis volutpat eros euismod vel. Maecenas ultrices metus vitae dapibus facilisis. Ut at faucibus nulla. Donec sed lacus et diam varius tempor tempor et velit. In venenatis maximus arcu id suscipit. Duis nibh ex, ornare ut porta sed, egestas eu enim.                    <br><br>
                 </p>
             </div>
 

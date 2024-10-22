@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SDG 6: Clean Water and Sanitation</title>
+    <title>SDG 7: Affordable and Clean Energy</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
@@ -90,12 +90,12 @@
         <div class="row">
             <!-- SDG 17 -->
             <div class="col-sm-9">
-                <h1 class="title">Goal 6: Ensure availability and sustainable management of water and sanitation for all</h1>
+                <h1 class="title">Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all</h1>
                 <hr>
                 <img src="../assets/sdg6/img/SDG-6-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
                 <br><br>
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mi est, sagittis in efficitur nec, maximus sed mauris. Duis commodo arcu id sapien imperdiet mollis. Suspendisse scelerisque quis lorem vel eleifend. Proin bibendum at nulla nec suscipit. Integer dictum risus tempus ligula imperdiet aliquam. Proin id elit libero. In enim enim, egestas et mauris ac, suscipit consectetur libero. Phasellus condimentum dictum dolor, lobortis volutpat eros euismod vel. Maecenas ultrices metus vitae dapibus facilisis. Ut at faucibus nulla. Donec sed lacus et diam varius tempor tempor et velit. In venenatis maximus arcu id suscipit. Duis nibh ex, ornare ut porta sed, egestas eu enim.                    <br><br>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mi est, sagittis in efficitur nec, maximus sed mauris. Duis commodo arcu id sapien imperdiet mollis. Suspendisse scelerisque quis lorem vel eleifend. Proin bibendum at nulla nec suscipit. Integer dictum risus tempus ligula imperdiet aliquam. Proin id elit libero. In enim enim, egestas et mauris ac, suscipit consectetur libero. Phasellus condimentum dictum dolor, lobortis volutpat eros euismod vel. Maecenas ultrices metus vitae dapibus facilisis. Ut at faucibus nulla. Donec sed lacus et diam varius tempor tempor et velit. In venenatis maximus arcu id suscipit. Duis nibh ex, ornare ut porta sed, egestas eu enim.                <br><br>
                 </p>
             
                

@@ -52,7 +52,7 @@
       
         .sdg1-bg{
             height: 380px;
-            background: linear-gradient(rgba(229,36,59,0), rgba(229,36,59,1) 95%);
+            background: linear-gradient(rgba(229,36,59,0), rgba(229,36,59,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -65,7 +65,7 @@
         .sdg2-container{
             height: 380px;
             background-image: url('assets/img/sdg2/zero-hunger-gray.png');
-            /* background: linear-gradient(rgba(221,166,58,1), rgba(221,166,58,1) 95%); */
+            /* background: linear-gradient(rgba(221,166,58,1), rgba(221,166,58,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -73,7 +73,7 @@
         
         .sdg2-bg{
             height: 380px;
-            background: linear-gradient(rgba(221,166,58,0), rgba(221,166,58,1) 95%);
+            background: linear-gradient(rgba(221,166,58,0), rgba(221,166,58,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -87,7 +87,7 @@
         .sdg3-container{
             height: 380px;
             background-image: url('assets/img/sdg3/good-health-gray.jpg');
-            /* background: linear-gradient(rgba(76,159,56,1), rgba(76,159,56,1) 95%); */
+            /* background: linear-gradient(rgba(76,159,56,1), rgba(76,159,56,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -95,7 +95,7 @@
 
         .sdg3-bg{
             height: 380px;
-            background: linear-gradient(rgba(76,159,56,0), rgba(76,159,56,1) 95%);
+            background: linear-gradient(rgba(76,159,56,0), rgba(76,159,56,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -117,7 +117,7 @@
 
         .sdg4-bg{
             height: 380px;
-            background: linear-gradient(rgba(197,25,45,0) , rgba(197,25,45,1) 95%);
+            background: linear-gradient(rgba(197,25,45,0) , rgba(197,25,45,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -137,7 +137,7 @@
 
         .sdg5-bg{
             height: 380px;
-            background: linear-gradient(rgba(255,58,33,0) , rgba(255,58,33,1) 95%);
+            background: linear-gradient(rgba(255,58,33,0) , rgba(255,58,33,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -156,7 +156,7 @@
 
         .sdg6-bg{
             height: 380px;
-            background: linear-gradient(rgba(38,189,226,0) , rgba(38,189,226,1) 95%);
+            background: linear-gradient(rgba(38,189,226,0) , rgba(38,189,226,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -168,7 +168,7 @@
         .sdg7-container{
             height: 380px;
             background-image: url('assets/img/sdg7/energy-carig-gray.jpg');
-            /* background: linear-gradient(rgba(252,195,11,1), rgba(252,195,11,1) 95%); */
+            /* background: linear-gradient(rgba(252,195,11,1), rgba(252,195,11,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -176,7 +176,7 @@
         
         .sdg7-bg{
             height: 380px;
-            background: linear-gradient(rgba(252,195,11,0), rgba(252,195,11,1) 95%);
+            background: linear-gradient(rgba(252,195,11,0), rgba(252,195,11,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -188,7 +188,8 @@
         /* SDG 8 */
         .sdg8-container{
             height: 380px;
-            background: linear-gradient(rgba(162,25,66,1), rgba(162,25,66,1) 95%);
+            background-image: url('assets/img/sdg8/decent-work1-gray.jpg');
+            /* background: linear-gradient(rgba(162,25,66,1), rgba(162,25,66,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -196,7 +197,7 @@
         
         .sdg8-bg{
             height: 380px;
-            background: linear-gradient(rgba(162,25,66,0), rgba(162,25,66,1) 95%);
+            background: linear-gradient(rgba(162,25,66,0), rgba(162,25,66,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -208,7 +209,8 @@
         /* SDG 9 */
         .sdg9-container{
             height: 380px;
-            background: linear-gradient(rgba(253,105,37,1), rgba(253,105,37,1) 95%);
+            background-image: url('assets/img/sdg9/innovation-gray.jpg');
+            /* background: linear-gradient(rgba(253,105,37,1), rgba(253,105,37,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -216,7 +218,7 @@
         
         .sdg9-bg{
             height: 380px;
-            background: linear-gradient(rgba(253,105,37,0), rgba(253,105,37,1) 95%);
+            background: linear-gradient(rgba(253,105,37,0), rgba(253,105,37,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -228,7 +230,8 @@
         /* SDG 10 */
         .sdg10-container{
             height: 380px;
-            background: linear-gradient(rgba(221,19,103,1), rgba(221,19,103,1) 95%);
+            background-image: url('assets/img/sdg10/reduced-inequalities-gray.jpg');
+            /* background: linear-gradient(rgba(221,19,103,1), rgba(221,19,103,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -236,7 +239,7 @@
         
         .sdg10-bg{
             height: 380px;
-            background: linear-gradient(rgba(221,19,103,0), rgba(221,19,103,1) 95%);
+            background: linear-gradient(rgba(221,19,103,0), rgba(221,19,103,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -248,7 +251,8 @@
         /* SDG 11 */
         .sdg11-container{
             height: 380px;
-            background: linear-gradient(rgba(253,157,36,1), rgba(253,157,36,1) 95%);
+            background-image: url('assets/img/sdg11/infrastructure-gray.jpg');
+            /* background: linear-gradient(rgba(253,157,36,1), rgba(253,157,36,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -256,7 +260,7 @@
         
         .sdg11-bg{
             height: 380px;
-            background: linear-gradient(rgba(253,157,36,0), rgba(253,157,36,1) 95%);
+            background: linear-gradient(rgba(253,157,36,0), rgba(253,157,36,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -268,7 +272,8 @@
         /* SDG 12 */
         .sdg12-container{
             height: 380px;
-            background: linear-gradient(rgba(191,139,46,1), rgba(191,139,46,1) 95%);
+            background-image: url('assets/img/sdg12/production-gray.jpg');
+            /* background: linear-gradient(rgba(191,139,46,1), rgba(191,139,46,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -276,7 +281,7 @@
         
         .sdg12-bg{
             height: 380px;
-            background: linear-gradient(rgba(191,139,46,0), rgba(191,139,46,1) 95%);
+            background: linear-gradient(rgba(191,139,46,0), rgba(191,139,46,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -288,7 +293,8 @@
         /* SDG 13 */
         .sdg13-container{
             height: 380px;
-            background: linear-gradient(rgba(63,126,68,1), rgba(63,126,68,1) 95%);
+            background-image: url('assets/img/sdg13/climate-gray.jpg');
+            /* background: linear-gradient(rgba(63,126,68,1), rgba(63,126,68,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -296,7 +302,7 @@
         
         .sdg13-bg{
             height: 380px;
-            background: linear-gradient(rgba(63,126,68,0), rgba(63,126,68,1) 95%);
+            background: linear-gradient(rgba(63,126,68,0), rgba(63,126,68,1) 80%);
             transition: backgrounf 0.15s;
             position: relative;
         }
@@ -316,7 +322,7 @@
 
         .sdg14-bg{
             height: 380px;
-            background: linear-gradient(rgba(10,151,217,0) , rgba(10,151,217,1) 95%);
+            background: linear-gradient(rgba(10,151,217,0) , rgba(10,151,217,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -327,8 +333,8 @@
         /* SDG 15 */
         .sdg15-container{
             height: 380px;
-/*            background-image: url('assets/img/fisheries-gray.jpg');*/
-            background: linear-gradient(rgba(86,192,43,1) , rgba(86,192,43,1) 95%);
+            background-image: url('assets/img/sdg15/lifeonland-gray.jpg');
+            /* background: linear-gradient(rgba(86,192,43,1) , rgba(86,192,43,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -336,7 +342,7 @@
 
         .sdg15-bg{
             height: 380px;
-            background: linear-gradient(rgba(86,192,43,0) , rgba(86,192,43,1) 95%);
+            background: linear-gradient(rgba(86,192,43,0) , rgba(86,192,43,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -347,8 +353,8 @@
         /* SDG 16 */
         .sdg16-container{
             height: 380px;
-/*            background-image: url('assets/img/fisheries-gray.jpg');*/
-            background: linear-gradient(rgba(0,104,157,1) , rgba(0,104,157,1) 95%);
+            background-image: url('assets/img/sdg16/criminal-justice-gray.jpg');
+            /* background: linear-gradient(rgba(0,104,157,1) , rgba(0,104,157,1) 80%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -356,7 +362,7 @@
 
         .sdg16-bg{
             height: 380px;
-            background: linear-gradient(rgba(0,104,157,0) , rgba(0,104,157,1) 95%);
+            background: linear-gradient(rgba(0,104,157,0) , rgba(0,104,157,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -375,7 +381,7 @@
 
         .sdg17-bg{
             height: 380px;
-            background: linear-gradient(rgba(25,72,106,0) , rgba(25,72,106,1) 95%);
+            background: linear-gradient(rgba(25,72,106,0) , rgba(25,72,106,1) 80%);
             transition: backgrounf 0.15s;
         }
 
@@ -390,7 +396,7 @@
             bottom: 100%;
             padding: 15px;
             overflow: hidden;
-            width: 95%;
+            width: 80%;
             height: 0;
         }
 
@@ -584,7 +590,7 @@
 
             <!-- SDG 7 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg5.html"> -->
+                <a href="pages/sdg7.php">
                 <div class="sdg7-container">
                     <div class="sdg7-bg">
                         <div class="sdg-logo-container">
@@ -596,12 +602,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 8 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg8.html"> -->
+                <a href="pages/sdg8.php">
                 <div class="sdg8-container">
                     <div class="sdg8-bg">
                         <div class="sdg-logo-container">
@@ -613,12 +619,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 9 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg5.html"> -->
+                <a href="pages/sdg9.php">
                 <div class="sdg9-container">
                     <div class="sdg9-bg">
                         <div class="sdg-logo-container">
@@ -630,12 +636,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 10 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg8.html"> -->
+                <a href="pages/sdg10.php">
                 <div class="sdg10-container">
                     <div class="sdg10-bg">
                         <div class="sdg-logo-container">
@@ -647,13 +653,13 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
 
              <!-- SDG 11 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg5.html"> -->
+                <a href="pages/sdg11.php">
                 <div class="sdg11-container">
                     <div class="sdg11-bg">
                         <div class="sdg-logo-container">
@@ -665,12 +671,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 12 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg8.html"> -->
+                <a href="pages/sdg12.php">
                 <div class="sdg12-container">
                     <div class="sdg12-bg">
                         <div class="sdg-logo-container">
@@ -682,12 +688,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 13 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg8.html"> -->
+                <a href="pages/sdg13.php">
                 <div class="sdg13-container">
                     <div class="sdg13-bg">
                         <div class="sdg-logo-container">
@@ -699,7 +705,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 14 -->
@@ -738,7 +744,7 @@
 
             <!-- SDG 16 -->
             <div class="col-sm-3">
-                <!-- <a href="pages/sdg15.html"> -->
+                <a href="pages/sdg16.php">
                 <div class="sdg16-container">
                     <div class="sdg16-bg">
                         <div class="sdg-logo-container">
@@ -750,7 +756,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- </a> -->
+                </a>
             </div>
 
             <!-- SDG 17 -->
