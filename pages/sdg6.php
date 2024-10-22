@@ -92,7 +92,7 @@
             <div class="col-sm-9">
                 <h1 class="title">Goal 6: Ensure availability and sustainable management of water and sanitation for all</h1>
                 <hr>
-                <img src="assets/img/SDG-6-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
+                <img src="../assets/sdg6/img/SDG-6-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
                 <br><br>
                 <p>
                     Cagayan State University's commitment to the Sustainable Development Goal of ensuring availability and sustainable management of water and sanitation for all is a testament to their dedication to environmental sustainability and public health. The university actively engages in research, community outreach, and infrastructure development projects aimed at improving water quality and accessibility, as well as promoting responsible water management practices. Through educational programs and partnerships with local communities and government agencies, Cagayan State University plays a pivotal role in addressing water and sanitation challenges, making a significant impact on the well-being of both its student body and the wider region, contributing to a more sustainable and equitable future for all.
@@ -103,26 +103,7 @@
             <br><br><br>
             </div>
             <div class="col-sm-3">
-                <a href="index.html" class="sdg-link"><h3 class="sidenav-title">CSU and the SDGs</h3></a>
-                <!-- <hr class="hr-metric"> -->
-                <div class="sdg-navbar-container">
-                    <a href="sdg1.html"><img src="assets/sdg-icons/sdg1/sdg1-og.png" alt="Goal 1" class="sdg-logo"></a>
-                    <img src="assets/sdg-icons/sdg2/sdg2-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg3/sdg3-og.png" alt="Goal 3" class="sdg-logo">
-                    <a href="sdg4.html"><img src="assets/sdg-icons/sdg4/sdg4-og.png" alt="Goal 4" class="sdg-logo"></a> 
-                    <a href="sdg5.html"><img src="assets/sdg-icons/sdg5/sdg5-og.png" alt="Goal 5" class="sdg-logo"></a>
-                    <a href="sdg6.html"><img src="assets/sdg-icons/sdg6/sdg6-og.png" alt="Goal 6" class="sdg-logo"></a>
-                    <img src="assets/sdg-icons/sdg7/sdg7-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg8/sdg8-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg9/sdg9-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg10/sdg10-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg11/sdg11-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg12/sdg12-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg13/sdg13-og.png" alt="Goal 2" class="sdg-logo">
-                    <a href="sdg14.html"><img src="assets/sdg-icons/sdg14/sdg14-og.png" alt="Goal 14" class="sdg-logo"></a>
-                    <a href="sdg17.html"><img src="assets/sdg-icons/sdg17/sdg17-og.png" alt="Goal 17" class="sdg-logo"></a>  
-                </div>
-                
+                <?php include 'nav.php'; ?>
             </div>
 
 

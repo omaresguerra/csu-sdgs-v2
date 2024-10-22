@@ -86,8 +86,8 @@
         /* SDG 3 */
         .sdg3-container{
             height: 380px;
-            /* background-image: url('assets/img/sdg1-gray.jpg');*/
-            background: linear-gradient(rgba(76,159,56,1), rgba(76,159,56,1) 95%);
+            background-image: url('assets/img/sdg3/good-health-gray.jpg');
+            /* background: linear-gradient(rgba(76,159,56,1), rgba(76,159,56,1) 95%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -167,7 +167,8 @@
         /* SDG 7 */
         .sdg7-container{
             height: 380px;
-            background: linear-gradient(rgba(252,195,11,1), rgba(252,195,11,1) 95%);
+            background-image: url('assets/img/sdg7/energy-carig-gray.jpg');
+            /* background: linear-gradient(rgba(252,195,11,1), rgba(252,195,11,1) 95%); */
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -481,7 +482,7 @@
         <div class="row">
             <!-- SDG 1 -->
             <div class="col-sm-3">
-                <a href="sdg1.html">
+                <a href="pages/sdg1.php">
                 <div class="sdg1-container">
                     <div class="sdg1-bg">
                         <div class="sdg-logo-container">
@@ -498,7 +499,7 @@
 
             <!-- SDG 2 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg2.html"> -->
+                <a href="pages/sdg2.php">
                 <div class="sdg2-container">
                     <div class="sdg2-bg">
                         <div class="sdg-logo-container">
@@ -515,7 +516,7 @@
 
             <!-- SDG 3 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg1.html"> -->
+                <a href="pages/sdg3.php">
                 <div class="sdg3-container">
                     <div class="sdg3-bg">
                         <div class="sdg-logo-container">
@@ -532,7 +533,7 @@
 
             <!-- SDG 4 -->
             <div class="col-sm-3">
-                <a href="sdg4.html">
+                <a href="pages/sdg4.php">
                 <div class="sdg4-container">
                     <div class="sdg4-bg">
                         <div class="sdg-logo-container">
@@ -549,7 +550,7 @@
 
             <!-- SDG 5 -->
             <div class="col-sm-3">
-                <a href="sdg5.html">
+                <a href="pages/sdg5.php">
                 <div class="sdg5-container">
                     <div class="sdg5-bg">
                         <div class="sdg-logo-container">
@@ -566,7 +567,7 @@
 
             <!-- SDG 6 -->
             <div class="col-sm-3">
-                <a href="sdg6.html">
+                <a href="pages/sdg6.php">
                 <div class="sdg6-container">
                     <div class="sdg6-bg">
                         <div class="sdg-logo-container">
@@ -583,7 +584,7 @@
 
             <!-- SDG 7 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg5.html"> -->
+                <!-- <a href="pages/sdg5.html"> -->
                 <div class="sdg7-container">
                     <div class="sdg7-bg">
                         <div class="sdg-logo-container">
@@ -600,7 +601,7 @@
 
             <!-- SDG 8 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg8.html"> -->
+                <!-- <a href="pages/sdg8.html"> -->
                 <div class="sdg8-container">
                     <div class="sdg8-bg">
                         <div class="sdg-logo-container">
@@ -617,7 +618,7 @@
 
             <!-- SDG 9 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg5.html"> -->
+                <!-- <a href="pages/sdg5.html"> -->
                 <div class="sdg9-container">
                     <div class="sdg9-bg">
                         <div class="sdg-logo-container">
@@ -634,7 +635,7 @@
 
             <!-- SDG 10 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg8.html"> -->
+                <!-- <a href="pages/sdg8.html"> -->
                 <div class="sdg10-container">
                     <div class="sdg10-bg">
                         <div class="sdg-logo-container">
@@ -652,7 +653,7 @@
 
              <!-- SDG 11 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg5.html"> -->
+                <!-- <a href="pages/sdg5.html"> -->
                 <div class="sdg11-container">
                     <div class="sdg11-bg">
                         <div class="sdg-logo-container">
@@ -669,7 +670,7 @@
 
             <!-- SDG 12 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg8.html"> -->
+                <!-- <a href="pages/sdg8.html"> -->
                 <div class="sdg12-container">
                     <div class="sdg12-bg">
                         <div class="sdg-logo-container">
@@ -686,7 +687,7 @@
 
             <!-- SDG 13 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg8.html"> -->
+                <!-- <a href="pages/sdg8.html"> -->
                 <div class="sdg13-container">
                     <div class="sdg13-bg">
                         <div class="sdg-logo-container">
@@ -703,7 +704,7 @@
 
             <!-- SDG 14 -->
             <div class="col-sm-3">
-                <a href="sdg14.html">
+                <a href="pages/sdg14.php">
                 <div class="sdg14-container">
                     <div class="sdg14-bg">
                         <div class="sdg-logo-container">
@@ -720,7 +721,7 @@
 
             <!-- SDG 15 -->
             <div class="col-sm-3">
-                <a href="sdg15.html">
+                <a href="pages/sdg15.php">
                 <div class="sdg15-container">
                     <div class="sdg15-bg">
                         <div class="sdg-logo-container">
@@ -737,7 +738,7 @@
 
             <!-- SDG 16 -->
             <div class="col-sm-3">
-                <!-- <a href="sdg15.html"> -->
+                <!-- <a href="pages/sdg15.html"> -->
                 <div class="sdg16-container">
                     <div class="sdg16-bg">
                         <div class="sdg-logo-container">
@@ -754,7 +755,7 @@
 
             <!-- SDG 17 -->
             <div class="col-sm-3">
-                <a href="sdg17.html">
+                <a href="pages/sdg17.php">
                 <div class="sdg17-container">
                     <div class="sdg17-bg">
                         <div class="sdg-logo-container">

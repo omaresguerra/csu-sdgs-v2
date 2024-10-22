@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.min.css">
 
     <style type="text/css">
-
         .sdg-logo{
             width: 39%;
             padding-bottom: 4px;
@@ -95,7 +94,7 @@
             <div class="col-sm-9">
                 <h1 class="title">Goal 1: End poverty in all its forms everywhere</h1>
                 <hr>
-                <img src="assets/img/SDG-1-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
+                <img src="../assets/img/sdg1/SDG-1-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
                 <br><br>
                 <p>
                     The eradication of poverty is one of the most critical goals set by the United Nations under its Sustainable Development Goals (SDGs). With people and communities still living in extreme poverty globally, it is crucial for institutions and organizations to contribute to this noble cause. Universities, as centers of knowledge and innovation, play a vital role in addressing this issue and creating sustainable solutions.
@@ -106,25 +105,7 @@
             </div>
 
             <div class="col-sm-3">
-                <a href="index.html"><h3 class="sidenav-title">CSU and the SDGs</h3></a>
-                <!-- <hr class="hr-metric"> -->
-                <div class="sdg-navbar-container">
-                    <a href="sdg1.html"><img src="assets/sdg-icons/sdg1/sdg1-og.png" alt="Goal 1" class="sdg-logo"></a>
-                    <img src="assets/sdg-icons/sdg2/sdg2-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg3/sdg3-og.png" alt="Goal 3" class="sdg-logo">
-                    <a href="sdg4.html"><img src="assets/sdg-icons/sdg4/sdg4-og.png" alt="Goal 4" class="sdg-logo"></a> 
-                    <a href="sdg5.html"><img src="assets/sdg-icons/sdg5/sdg5-og.png" alt="Goal 5" class="sdg-logo"></a>
-                    <a href="sdg6.html"><img src="assets/sdg-icons/sdg6/sdg6-og.png" alt="Goal 6" class="sdg-logo"></a>
-                    <img src="assets/sdg-icons/sdg7/sdg7-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg8/sdg8-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg9/sdg9-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg10/sdg10-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg11/sdg11-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg12/sdg12-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg13/sdg13-og.png" alt="Goal 2" class="sdg-logo">
-                    <a href="sdg14.html"><img src="assets/sdg-icons/sdg14/sdg14-og.png" alt="Goal 14" class="sdg-logo"></a>
-                    <a href="sdg17.html"><img src="assets/sdg-icons/sdg17/sdg17-og.png" alt="Goal 17" class="sdg-logo"></a>  
-                </div>
+                <?php include 'nav.php'; ?>
                 
             </div>
 

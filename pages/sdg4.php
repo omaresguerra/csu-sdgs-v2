@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="assets/font-awesome-4.7.0/css/font-awesome.min.css">
 
     <style type="text/css">
-
         .sdg-logo{
             width: 39%;
             padding-bottom: 4px;
@@ -57,7 +56,6 @@
             margin-top: 0;
         }
 
-
         .sdg-border{
             border-color: rgba(197,25,45,1);
         }
@@ -88,12 +86,12 @@
 <body>
     <div class="container">
         <div class="row">
-            <!-- SDG 1 -->
+            <!-- SDG 4 -->
             
             <div class="col-sm-9">
                 <h1 class="title">Goal 4: Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all</h1>
                 <hr>
-                <img src="assets/img/SDG-4-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
+                <img src="../assets/img/sdg4/SDG-4-2-1024x301.jpg" alt="Goal 1" class="sdg-banner">
                 <br><br>
                 <p>
                     With a deep commitment to providing accessible, inclusive, and quality education to all, CSU has become a shining example of how an educational institution can drive positive change in the community and contribute to the global pursuit of this important goal.
@@ -104,25 +102,7 @@
             </div>
 
             <div class="col-sm-3">
-                <a href="index.html" class="sdg-link"><h3 class="sidenav-title">CSU and the SDGs</h3></a>
-                <!-- <hr class="hr-metric"> -->
-                <div class="sdg-navbar-container">
-                    <a href="sdg1.html"><img src="assets/sdg-icons/sdg1/sdg1-og.png" alt="Goal 1" class="sdg-logo"></a>
-                    <img src="assets/sdg-icons/sdg2/sdg2-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg3/sdg3-og.png" alt="Goal 3" class="sdg-logo">
-                    <a href="sdg4.html"><img src="assets/sdg-icons/sdg4/sdg4-og.png" alt="Goal 4" class="sdg-logo"></a> 
-                    <a href="sdg5.html"><img src="assets/sdg-icons/sdg5/sdg5-og.png" alt="Goal 5" class="sdg-logo"></a>
-                    <a href="sdg6.html"><img src="assets/sdg-icons/sdg6/sdg6-og.png" alt="Goal 6" class="sdg-logo"></a>
-                    <img src="assets/sdg-icons/sdg7/sdg7-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg8/sdg8-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg9/sdg9-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg10/sdg10-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg11/sdg11-og.png" alt="Goal 2" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg12/sdg12-og.png" alt="Goal 3" class="sdg-logo">
-                    <img src="assets/sdg-icons/sdg13/sdg13-og.png" alt="Goal 2" class="sdg-logo">
-                    <a href="sdg14.html"><img src="assets/sdg-icons/sdg14/sdg14-og.png" alt="Goal 14" class="sdg-logo"></a>
-                    <a href="sdg17.html"><img src="assets/sdg-icons/sdg17/sdg17-og.png" alt="Goal 17" class="sdg-logo"></a>  
-                </div>
+                <?php include 'nav.php'; ?>
                 
             </div>
 
