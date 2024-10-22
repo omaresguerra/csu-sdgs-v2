@@ -10,7 +10,6 @@ The platform serves as a hub for information on how CSU is actively contributing
 
 - **SDGs Overview**: Detailed information about the Sustainable Development Goals and CSU’s corresponding initiatives.
 - **CSU Contributions**: Overview of CSU's academic, research, and community projects supporting each SDG.
-- **Interactive Media**: Embedded images and graphics that highlight CSU’s efforts and success stories.
 
 ## Technology Stack
 
