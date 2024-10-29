@@ -751,7 +751,7 @@
                             <img src="assets/sdg-icons/sdg16/sdg16.png" alt="Goal 16" class="sdg-logo">
                         </div>
                         <div class="sdg16-overlay">
-                            <h2 class="text-overlay">Promote just, peaceful and inclusive societies</h2>
+                            <h2 class="text-overlay" style="font-size: 24px;">Promote just, peaceful and inclusive societies</h2>
                             <p class="text-overlay-p" style="font-size: 12px;">Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels</p>
                         </div>
                     </div>

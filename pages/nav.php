@@ -14,5 +14,7 @@
     <a href="sdg12.php"><img src="../assets/sdg-icons/sdg12/sdg12-og.png" alt="Goal 3" class="sdg-logo"></a>
     <a href="sdg13.php"><img src="../assets/sdg-icons/sdg13/sdg13-og.png" alt="Goal 2" class="sdg-logo"></a>
     <a href="sdg14.php"><img src=" ../assets/sdg-icons/sdg14/sdg14-og.png" alt="Goal 14" class="sdg-logo"></a>
+    <a href="sdg15.php"><img src=" ../assets/sdg-icons/sdg15/sdg15-og.png" alt="Goal 15" class="sdg-logo"></a>
+    <a href="sdg16.php"><img src=" ../assets/sdg-icons/sdg16/sdg16-og.png" alt="Goal 16" class="sdg-logo"></a>
     <a href="sdg17.php"><img src=" ../assets/sdg-icons/sdg17/sdg17-og.png" alt="Goal 17" class="sdg-logo"></a>  
 </div>
