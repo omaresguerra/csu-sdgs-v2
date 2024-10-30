@@ -631,7 +631,7 @@
                             <img src="assets/sdg-icons/sdg9/sdg9.png" alt="Goal 9" class="sdg-logo">
                         </div>
                         <div class="sdg9-overlay">
-                            <h2 class="text-overlay">Industry, Innovation and Instrastructure</h2>
+                            <h2 class="text-overlay" style="font-size: 24px;">Industry, Innovation and Instrastructure</h2>
                             <p class="text-overlay-p"  style="font-size: 12px;">Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation</p>
                         </div>
                     </div>

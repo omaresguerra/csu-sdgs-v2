@@ -6,7 +6,7 @@
             <div class="col-sm-9">
                 <h1 class="title">Goal 1: End poverty in all its forms everywhere</h1>
                 <hr>
-                <img src="../assets/img/sdg1/SDG-1-2-1024x301.jpg" alt="SDG 1" class="sdg-banner">
+                <img src="../assets/img/sdg1/sdg1-banner.jpg" alt="SDG 1" class="sdg-banner">
                 <br><br>
                 <p>
                     The eradication of poverty is one of the most critical goals set by the United Nations under its Sustainable Development Goals (SDGs). With people and communities still living in extreme poverty globally, it is crucial for institutions and organizations to contribute to this noble cause. Universities, as centers of knowledge and innovation, play a vital role in addressing this issue and creating sustainable solutions.
