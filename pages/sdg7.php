@@ -1,4 +1,5 @@
 <?php include 'header.php';  ?>
+    <!-- (252, 195, 11) #FCC30B -->
 
     <div class="container">
         <div class="row">
